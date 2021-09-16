@@ -3,7 +3,7 @@
 Jammo The Robot is a project made with Unity and Hugging Face 🤗 where you’ll learn to make this smart robot 🤖.
 The robot acts based on player input using a deep language model to understand any text input and find the closest action of its list.
 
-<img src="images/jammo_the_robot.gif alt="jammo the robot"/>
+<img src="./images/jammo_the_robot.gif" alt="jammo the robot"/>
                                                           
 The Tutorial: 👉 https://thomassimonini.medium.com/building-a-smart-robot-ai-using-hugging-face-and-unity-a78724810545
                                                           
